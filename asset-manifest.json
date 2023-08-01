@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nrlozdemir.github.io/csb-us4k30/static/css/main.aed93d68.chunk.css",
+    "main.js": "https://nrlozdemir.github.io/csb-us4k30/static/js/main.80c71d59.chunk.js",
+    "main.js.map": "https://nrlozdemir.github.io/csb-us4k30/static/js/main.80c71d59.chunk.js.map",
+    "runtime-main.js": "https://nrlozdemir.github.io/csb-us4k30/static/js/runtime-main.03a2fd9e.js",
+    "runtime-main.js.map": "https://nrlozdemir.github.io/csb-us4k30/static/js/runtime-main.03a2fd9e.js.map",
+    "static/js/2.82516e5b.chunk.js": "https://nrlozdemir.github.io/csb-us4k30/static/js/2.82516e5b.chunk.js",
+    "static/js/2.82516e5b.chunk.js.map": "https://nrlozdemir.github.io/csb-us4k30/static/js/2.82516e5b.chunk.js.map",
+    "index.html": "https://nrlozdemir.github.io/csb-us4k30/index.html",
+    "static/css/main.aed93d68.chunk.css.map": "https://nrlozdemir.github.io/csb-us4k30/static/css/main.aed93d68.chunk.css.map",
+    "static/js/2.82516e5b.chunk.js.LICENSE.txt": "https://nrlozdemir.github.io/csb-us4k30/static/js/2.82516e5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03a2fd9e.js",
+    "static/js/2.82516e5b.chunk.js",
+    "static/css/main.aed93d68.chunk.css",
+    "static/js/main.80c71d59.chunk.js"
+  ]
+}
